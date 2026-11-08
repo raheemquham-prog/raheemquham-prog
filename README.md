@@ -1,43 +1,60 @@
 # Hi, I'm Raheem Quham 👋
 
-**Computer Science & Cybersecurity Specialist
+**Applied Computer Science Student · Cybersecurity & Web Development**
 
-> Applied Computer Science student and Certified Ethical Hacker focused on systems security, robust web architecture, and defensive/offensive security workflows.
+I build practical web applications and explore how systems can be secured. My interests span web application security, Python automation, and Linux, with an emphasis on clear documentation and responsible testing.
 
+[Explore my projects](https://github.com/raheemquham-prog?tab=repositories) · [View my web platform](https://block-industry-six.vercel.app/) · [Explore my security capstone](https://github.com/raheemquham-prog/cybersecurity-labs-)
 
-### 🚀 About Me
+## About me
 
-- 🎓 **Focus:** Systems Security, Python Development, Applied Computer Science, and Web Architecture
-- 📜 **Credential:** Certified Ethical Hacker (15-Week Bootcamp via TechCrush / ACTD Accredited)
- **Current Scope:** Security evaluation frameworks, system automation, and web security testing
-  
+I approach projects from both a developer's and a security learner's perspective: how does it work, where could it fail, and how can it be improved?
 
+- **Studying:** Applied Computer Science.
+- **Training:** Completed a 15-week ethical hacking bootcamp through TechCrush.
+- **Focus areas:** Web security testing, systems security, Python development, and web architecture.
+- **Developing my practice:** Writing reproducible lab reports, explaining findings, and connecting security observations to defensive improvements.
 
-### 🛠️ Tech Stack & Capabilities
+## Featured work
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, Bash, JavaScript (ES6+), HTML5/CSS3[cite: 1] |
-| **Security & Auditing** | Penetration Testing, Web App Security (OWASP), Linux Hardening |
-| **Environments & Tools** | Linux (Kali/Debian), Git/GitHub, Virtualization, Vercel |
-| **Web Development** | Component Architectures (React), Dynamic Forms, API Integration[cite: 1] |
+### 🏗️ Block Industry Digital Platform
 
----
+A web application designed to simplify material calculations and order enquiries for a block supply business.
 
-### 🌟 Featured Deployment
+- **Purpose:** Help customers prepare material estimates and communicate order requirements.
+- **Features:** Material calculations, multi-item quotes, and WhatsApp integration.
+- **Technologies:** React, JavaScript, CSS, and Vercel.
 
-- 🏗️ **[Block Industry Digital Platform](https://block-industry-six.vercel.app/)**  
-  A digital order and material calculation platform built for regional supply logistics, featuring dynamic multi-item quotes and structured WhatsApp integration[cite: 1].  
-  * **Tech:** React, JavaScript, Modern CSS3, Vercel[cite: 1]
+[View the platform →](https://block-industry-six.vercel.app/)
 
----
+### 🛡️ Cybersecurity Capstone: Macro Execution & Physical Social Engineering Simulation
 
-### 📊 Security Labs & Proofs
+A lab project exploring document security controls, user warning decisions, and defensive monitoring within an authorized simulation.
 
-*Portfolio scripts, test vectors, and security lab proofs are organized across the public repositories below.*
+- **Environment:** Kali Linux and Windows 11 virtual machines on a VMware Host-Only network.
+- **Documentation:** Scope, authorization, isolation requirements, evidence handling, and a structured testing methodology.
+- **Learning focus:** Macro restrictions, endpoint visibility, responsible reporting, and defensive remediation.
 
----
+The exercise is limited to designated lab assets and mock data. The README distinguishes the required workflow from verified test results.
 
-### 💬 Connect & Contact
+[Read the capstone →](https://github.com/raheemquham-prog/cybersecurity-labs-)
 
-- 🌐 **Live Web Platform:** [block-industry-six.vercel.app](https://block-industry-six.vercel.app/)
+## Tools & technical interests
+
+| Area | Tools & topics |
+| --- | --- |
+| Programming & scripting | Python, Bash, JavaScript |
+| Web development | React, HTML, CSS, API integration |
+| Security practice | Authorized lab testing, OWASP concepts, Linux hardening |
+| Development environment | Kali Linux, Debian, Git, GitHub, VMware, Vercel |
+
+## How I approach my work
+
+- **Build with a purpose:** Start with a practical problem and make the solution understandable.
+- **Test responsibly:** Define authorization and boundaries before beginning security work.
+- **Document the evidence:** Separate observed results from assumptions and explain limitations.
+- **Keep improving:** Use findings and feedback to guide the next iteration.
+
+## Connect
+
+Interested in my work, a project discussion, or a relevant opportunity? Explore the projects above and connect with me through [my GitHub profile](https://github.com/raheemquham-prog).
